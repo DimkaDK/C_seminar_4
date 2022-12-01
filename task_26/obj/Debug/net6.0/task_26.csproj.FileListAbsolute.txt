@@ -1,0 +1,15 @@
+D:\education\C#\C_seminar_4\task_26\bin\Debug\net6.0\task_26.exe
+D:\education\C#\C_seminar_4\task_26\bin\Debug\net6.0\task_26.deps.json
+D:\education\C#\C_seminar_4\task_26\bin\Debug\net6.0\task_26.runtimeconfig.json
+D:\education\C#\C_seminar_4\task_26\bin\Debug\net6.0\task_26.dll
+D:\education\C#\C_seminar_4\task_26\bin\Debug\net6.0\task_26.pdb
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.csproj.AssemblyReference.cache
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.AssemblyInfoInputs.cache
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.AssemblyInfo.cs
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.csproj.CoreCompileInputs.cache
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.dll
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\refint\task_26.dll
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.pdb
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\task_26.genruntimeconfig.cache
+D:\education\C#\C_seminar_4\task_26\obj\Debug\net6.0\ref\task_26.dll
